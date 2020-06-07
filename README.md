@@ -1,6 +1,4 @@
 # the-react-bootcamp
-repo to store code and notes while completing react tutorial
-bootcamp description:
 
 This is an advanvced React bootcamp put together by Bob Ziroll and follows up free introduction bootcamp to react.
 
