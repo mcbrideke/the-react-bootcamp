@@ -24,3 +24,5 @@ state
 conditional rendering
 
 forms
+
+add to an array: [..., newItem ]
