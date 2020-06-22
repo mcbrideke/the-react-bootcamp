@@ -5,6 +5,12 @@ https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-samp
 
 https://medium.freecodecamp.org/summer-is-over-you-should-be-coding-heres-yet-another-list-of-exciting-ideas-to-build-a95d7704d36d
 
+Stuff to learn (nonreact):
+javascript functions like map, filter, etc.
+implicit return vs curly braces
+arrow functions
+fetch calls
+
 conclusion from first tutorial:
 
 big ideas 
@@ -24,3 +30,35 @@ state
 conditional rendering
 
 forms
+
+The React Bootcamp
+
+course introduction:
+html, css, js resources
+- freecodecamp
+- javascript 30
+
+fragment notation:
+<React.fragment/> or <></>
+React Docs on PropTypes:
+https://reactjs.org/docs/typechecking-with-proptypes.html#proptypes
+
+inheritance:
+classes
+subclasses
+inheriting traits
+
+composition: 
+pull together bits and
+
+composition > inheritance
+
+children:
+use props.children when you have a way to display stuff but the content varies a lot
+and others can inject content freely into your component
+
+use regular props when you have a strict way of displaying content and simply need to pass in 
+a few attributes,the component is more controlled but also more rigid
+
+HOC:
+use when you have functionality that can be added on to multiple existing components
