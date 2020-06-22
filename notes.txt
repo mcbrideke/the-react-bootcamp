@@ -62,3 +62,4 @@ a few attributes,the component is more controlled but also more rigid
 
 HOC:
 use when you have functionality that can be added on to multiple existing components
+add to an array: [..., newItem ]
